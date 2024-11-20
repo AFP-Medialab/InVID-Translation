@@ -204,7 +204,7 @@ highly_likely_machine	Highly likely machine generated	Très probablement génér
 expand_minimise_text	Expand or minimise text	Développer ou réduire le texte	Expandir o minimizar el texto	Επέκταση ή ελαχιστοποίηση κειμένου	Espandi o riduci il testo	توسيع أو تصغير النص	Text erweitern oder minimieren	テキストを拡大または最小化する
 copy_to_clipboard	Copy to Clipboard	Copier dans le presse-papier	Copiar al portapapeles	Αντιγραφή στο πρόχειρο	Copia negli appunti	نسخ إلى الحافظة	In die Zwischenablage kopieren	クリップボードにコピー
 id	ID	ID	ID	ID	ID	ID	ID	ID
-status	Status	État	Estado	Κατάσταση	Stato	حالة	Status  状態
-domain_scope	Domain	Domaine	Dominio	Τομέας	Dominio	مجال	Domain  ドメイン
-details	Details	Détails	Detalles	Λεπτομέρειες	Dettagli	تفاصيل	Details 詳細
-options	Options	Options	Options	Επιλογές	Opzioni	خيارات	Optionen  オプション
+status	Status	État	Estado	Κατάσταση	Stato	حالة	Status	状態
+domain_scope	Domain	Domaine	Dominio	Τομέας	Dominio	مجال	Domain	ドメイン
+details	Details	Détails	Detalles	Λεπτομέρειες	Dettagli	تفاصيل	Details	詳細
+options	Options	Options	Options	Επιλογές	Opzioni	خيارات	Optionen	オプション
