@@ -156,27 +156,27 @@ detected_techniques	Detected techniques	Techniques détectées	Técnicas detecta
 no_detected_categories	No detected categories	Aucune catégorie détectée	No se detectaron categorías	Δεν εντοπίστηκαν κατηγορίες	Nessuna categoria rilevata	لم يتم اكتشاف فئات	Keine Kategorien erkannt	カテゴリが検出されませんでした
 Appeal_to_Authority	Appeal to Authority	Appel à l'autorité	Apelación a la autoridad	Έκκληση στην αυθεντία	Appello all'autorità	الاحتكام إلى السلطة	Berufung auf Autorität	当局への訴え
 Appeal_to_Popularity	Appeal to Popularity	Appel à la popularité	Apelación a la popularidad	Έκκληση στη δημοφιλία	Appello alla popolarità	الاحتكام إلى الشعبية	Appell an die Beliebtheit	人気へのアピール
-Appeal_to_Values	Appeal to values	Appel aux valeurs	Apelación a los valores	Έκκληση στις αξίες	Appello ai valori	الاحتكام إلى القيم	Berufung auf Werte	価値観に訴える
-Appeal_to_Fear-Prejudice	Appeal to fear/prejudice	Appel à la peur/préjugé	Apelación al miedo/prejuicio	Έκκληση στον φόβο/προκατάληψη	Appello alla paura/pregiudizio	الاحتكام إلى الخوف/التحيز	Appell an Angst/Vorurteil	恐怖/偏見に訴える
+Appeal_to_Values	Appeal to Values	Appel aux valeurs	Apelación a los valores	Έκκληση στις αξίες	Appello ai valori	الاحتكام إلى القيم	Berufung auf Werte	価値観に訴える
+Appeal_to_Fear-Prejudice	Appeal to Fear/Prejudice	Appel à la peur/préjugé	Apelación al miedo/prejuicio	Έκκληση στον φόβο/προκατάληψη	Appello alla paura/pregiudizio	الاحتكام إلى الخوف/التحيز	Appell an Angst/Vorurteil	恐怖/偏見に訴える
 Flag_Waving	Flag Waving	Agitation du drapeau	Agitación de la bandera	Κραδαίνοντας τη σημαία	Sventolare la bandiera	التلويح بالعلم	Fahnen schwenken	旗を振る
-Causal_Oversimplification	Causal oversimplification	Simplification causale excesiva	Sobresimplificación causal	Απλοποίηση της αιτίας	Estrema semplificazione causale	الاختزال السببي المفرط	Kausale Übersimplifizierung	因果関係の過度の単純化
-False_Dilemma-No_Choice	False dilemma or no choice	Faux dilemme ou aucun choix	Falsa disyuntiva o sin elección	Ψευδές δίλημμα ή καμία επιλογή	Falso dilemma o nessuna scelta	خيار زائف أو بدون اختيار	Falsches Dilemma oder keine Wahl	誤ったジレンマまたは選択の余地がない
-Consequential_Oversimplification	Consequential oversimplification	Simplification conséquente	Exagerada simplificación de consecuencias	Συνεπαγόμενη απλοποίηση	Semplificazione conseguente	تبسيط النتائج المترتبة عليها Konsequente	Übervereinfachung	結果としての過度の単純化
-Straw_Man	Straw man	Homme de paille	Hombre de paja	Αχυρένιος άνθρωπος	Uomo di paglia	الرجل القش	Scheinargument	ストローマン
-Red_Herring	Red herring	Fausse piste	Cortina de humo	Δόλωμα	Falsa pista	شاشة دخان	Finte Fährte	レッドニシン
+Causal_Oversimplification	Causal Oversimplification	Simplification causale excesiva	Sobresimplificación causal	Απλοποίηση της αιτίας	Estrema semplificazione causale	الاختزال السببي المفرط	Kausale Übersimplifizierung	因果関係の過度の単純化
+False_Dilemma-No_Choice	False Dilemma or No Choice	Faux dilemme ou aucun choix	Falsa disyuntiva o sin elección	Ψευδές δίλημμα ή καμία επιλογή	Falso dilemma o nessuna scelta	خيار زائف أو بدون اختيار	Falsches Dilemma oder keine Wahl	誤ったジレンマまたは選択の余地がない
+Consequential_Oversimplification	Consequential Oversimplification	Simplification conséquente	Exagerada simplificación de consecuencias	Συνεπαγόμενη απλοποίηση	Semplificazione conseguente	تبسيط النتائج المترتبة عليها Konsequente	Übervereinfachung	結果としての過度の単純化
+Straw_Man	Straw Man	Homme de paille	Hombre de paja	Αχυρένιος άνθρωπος	Uomo di paglia	الرجل القش	Scheinargument	ストローマン
+Red_Herring	Red Herring	Fausse piste	Cortina de humo	Δόλωμα	Falsa pista	شاشة دخان	Finte Fährte	レッドニシン
 Whataboutism	Whataboutism	Quidisme	Québoutismo	Τιμισμός	Qualunquismo	التلاعب بالقضايا	Whataboutismus	どうでしょう主義
 Slogans	Slogans	Slogans	Eslogans	Συνθήματα	Slogan	الشعارات	Slogans	スローガン
-Appeal_to_Time	Appeal to time	Appel au temps	Apelación al tiempo	Έκκληση στο χρόνο	Appello al tempo	الاحتكام إلى الوقت	Appell an die Zeit	時間に訴える
-Conversation_Killer	Conversation killer	Tueur de conversation	Asesino de conversaciones	Δολοφόνος συνομιλίας	Assassino di conversazioni	قاتل المحادثة	Gesprächskiller	会話キラー
-Loaded_Language	Loaded language	Langage biaisé	Lenguaje sesgado	Φορτισμένη γλώσσα	Linguaggio carico	لغة محملة	Voreingenommene Sprache	ロードされている言語
+Appeal_to_Time	Appeal to Time	Appel au temps	Apelación al tiempo	Έκκληση στο χρόνο	Appello al tempo	الاحتكام إلى الوقت	Appell an die Zeit	時間に訴える
+Conversation_Killer	Conversation Killer	Tueur de conversation	Asesino de conversaciones	Δολοφόνος συνομιλίας	Assassino di conversazioni	قاتل المحادثة	Gesprächskiller	会話キラー
+Loaded_Language	Loaded Language	Langage biaisé	Lenguaje sesgado	Φορτισμένη γλώσσα	Linguaggio carico	لغة محملة	Voreingenommene Sprache	ロードされている言語
 Repetition	Repetition	Répétition	Repetición	Επανάληψη	Ripetizione	التكرار	Wiederholung	繰り返し
-Exaggeration-Minimisation	Exaggeration or minimisation	Exagération ou minimisation	Exageración o minimización	Υπερβολή ή ελαχιστοποίηση	Esagerazione o minimizzazione	المبالغة أو التقليل	Übertreibung oder Minimierung	誇張または最小化
-Obfuscation-Vagueness-Confusion	Obfuscation - vagueness or confusion	Obscurcissement - vagueness ou confusion	Ofuscación - vaguedad o confusión	Συγκαλυμμένη σύγχυση	Offuscamento - vaghezza o confusione	التعتيم - الغموض أو الارتباك	Verschleierung - Unklarheit oder Verwirrung	難読化 - 曖昧さまたは混乱
-Name_Calling-Labeling	Name calling or labeling	Appel d'injures ou d'étiquettes	Insultos o etiquetado	Χαρακτηρισμοί ή ταμπέλες	Denigrazione o etichettatura	التسمية أو التسمية	Beleidigungen oder Etikettierung	名前の呼び方やラベル付け
+Exaggeration-Minimisation	Exaggeration or Minimisation	Exagération ou minimisation	Exageración o minimización	Υπερβολή ή ελαχιστοποίηση	Esagerazione o minimizzazione	المبالغة أو التقليل	Übertreibung oder Minimierung	誇張または最小化
+Obfuscation-Vagueness-Confusion	Obfuscation - Vagueness or Confusion	Obscurcissement - vagueness ou confusion	Ofuscación - vaguedad o confusión	Συγκαλυμμένη σύγχυση	Offuscamento - vaghezza o confusione	التعتيم - الغموض أو الارتباك	Verschleierung - Unklarheit oder Verwirrung	難読化 - 曖昧さまたは混乱
+Name_Calling-Labeling	Name Calling or Labeling	Appel d'injures ou d'étiquettes	Insultos o etiquetado	Χαρακτηρισμοί ή ταμπέλες	Denigrazione o etichettatura	التسمية أو التسمية	Beleidigungen oder Etikettierung	名前の呼び方やラベル付け
 Doubt	Doubt	Doute	Duda	Αμφιβολία	Dubbio	الشك	Zweifel	疑い
-Guilt_by_Association	Guilt by association	Culpabilité par association	Culpabilidad por asociación	Ενοχή λόγω συσχέτισης	Colpa per associazione	الذنب بالارتباط	Schuld durch Assoziation	結社による罪
+Guilt_by_Association	Guilt by Association	Culpabilité par association	Culpabilidad por asociación	Ενοχή λόγω συσχέτισης	Colpa per associazione	الذنب بالارتباط	Schuld durch Assoziation	結社による罪
 Appeal_to_Hypocrisy	Appeal to Hypocrisy	Appel à l'hypocrisie	Apelación a la hipocresía	Έκκληση στην υποκρισία	Appello all'ipocrisia	الاحتكام إلى النفاق	Berufung auf Heuchelei	偽善への訴え
-Questioning_the_Reputation	Questioning the reputation	Remise en question de la réputation	Cuestionar la reputación	Αμφισβήτηση της φήμης	Mettere in discussione la reputazione	التشكيك في السمعة	Infragestellen des Rufs	評判に疑問を呈する
+Questioning_the_Reputation	Questioning the Reputation	Remise en question de la réputation	Cuestionar la reputación	Αμφισβήτηση της φήμης	Mettere in discussione la reputazione	التشكيك في السمعة	Infragestellen des Rufs	評判に疑問を呈する
 subjectivity_title	Subjectivity	Subjectivité	Subjetividad	Υποκειμενικότητα	Soggettività	الذاتية	Subjektivität	主観
 subjectivity_tooltip	Identify the subjective sentences of the extracted text.	Identifier les phrases subjectives du texte extrait.	Identificar las oraciones subjetivas del texto extraído.	Να εντοπίσετε τις υποκειμενικές προτάσεις του εξαγόμενου κειμένου.	Identificare le frasi soggettive del testo estratto.	حدد الجمل الذاتية للنص المستخرج.	Identifizieren Sie die subjektiven Sätze des extrahierten Textes.	抽出されたテキストの主観的な文章を特定します。
 subjective_sentences_detected	Subjective sentences detected	Phrases subjectives détectées	Se detectaron oraciones subjetivas	Εντοπίστηκαν υποκειμενικές προτάσεις	Frasi soggettive rilevate	تم الكشف عن الجمل الموضوعية	Subjektive Sätze erkannt	主観的な文章が検出されました
