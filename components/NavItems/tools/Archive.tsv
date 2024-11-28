@@ -4,6 +4,7 @@ archive_description	Archive an URL or a .wacz file	Archiver une URL ou un fichie
 submit_button	Archive	Archiver	Archivar	Αρχειοθέτηση	Archiviare	أرشفة	Archivieren	アーカイブする
 clear_button	Clear	Effacer	Limpiar	Καθαρισμός	Cancella	مسح Löschen		クリア
 archive_wacz_accordion	Archive a .wacz file	Archiver un fichier .wacz	Archivar un archivo .wacz	Αρχειοθέτηση αρχείου .wacz	Archivia un file .wacz	أرشفة ملف .wacz	Eine .wacz-Datei archivieren	.wacz ファイルをアーカイブする
+links_card_title	Archivable links	Liens archivables	Enlaces archivables	Σύνδεσμοι που μπορούν να αρχειοθετηθούν	Link archiviabili	روابط قابلة للأرشفة	Archivierbare Links	アーカイブ可能なリンク
 open_links_button	Open links in new tabs	Ouvrir les liens dans de nouveaux onglets	Abrir enlaces en nuevas pestañas	Άνοιγμα συνδέσμων σε νέες καρτέλες	Apri i collegamenti in nuove schede	افتح الروابط في علامات تبويب جديدة	Links in neuen Tabs öffnen	リンクを新しいタブで開く
 embed_link	Embed link	Lien embed	Enlace incrustado	Ενσωματωμένος σύνδεσμος	Link incorporato	رابط مُضمّن	Eingebetteter Link	リンクを埋め込む
 android_link	Android link	Lien Android	Enlace de Android	Σύνδεσμος Android	Link Android	رابط Android	Android-Link	アンドロイドリンク
