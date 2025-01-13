@@ -231,7 +231,6 @@ support	Support	Soutien	Apoyo	Υποστήριξη	Supporto	دعم	Unterstützun
 deny	Deny	Refuser	Denegar	Αρνείσθαι	Negare	رفض	Verweigern	拒否する
 query	Query	Requête	Consulta	Ερώτημα	Richiesta	استعلام	Abfrage	クエリ
 comment	Comment	Commentaire	Comentario	Σχόλιο	Commento	تعليق	Kommentar	コメント
-api_comments	All comments	Tous les commentaires	Todos los comentarios	Όλα τα σχόλια	Tutti i commenti	كل التعليقات	Alle Kommentare	すべてのコメント
 link_comments	Comments that contain links	Commentaires contenant des liens	Comentarios que contienen enlaces	Σχόλια που περιέχουν συνδέσμους	Numero di commenti che contengono links	التعليقات التي تحتوي على روابط	Kommentare, die Links enthalten	リンクを含むコメント
 api_comments_verified	Verification comments	Commentaires de vérification	Comentarios de verificación	Σχόλια επαλήθευσης	Commenti verifica	تعليقات موثوقة	Überprüfungskommentare	検証コメント
 page_number	out of	de	sobre	Εκτός	fuori da	خارج النظام أو المنصة	aus	から
@@ -239,3 +238,4 @@ twitter_user_name_13	Created	Date de création	Fecha de creación	Δημιουρ
 twitter_user_name_5	Description	Description	Descripción	Περιγραφή	Descrizione	الوصف	Beschreibung	説明
 stance_title	Stance	Position	Postura	Στάση	Posizione	موقف	Haltung	姿勢
 user	User	Utilisateur	Usuario	Χρήστης	Utente	المستخدم	Benutzer	ユーザー
+api_comments	All comments	Tous les commentaires	Todos los comentarios	Όλα τα σχόλια	Tutti i commenti	كل التعليقات	Alle Kommentare	すべてのコメント
