@@ -1,7 +1,7 @@
 	en	fr	es	el	it	ar	de	ja
 geo_link	Link of the image	Lien de l'image	Link de la imagen	Ανάλυση Αυθεντικότητας Εικόνων (image forensics)	Collegamento dell'immagine	رابط الصورة	Bildlink	画像のリンク
 geo_paste	Paste the link here	Collez le lien ici	Pegue el link aquí	Επικολλήστε τον σύνδεσμο εδώ	Incolla il link qui	الصق الرابط هنا	Fügen Sie den Link hier ein	ここにリンクを貼り付けてください
-geo_submit	Submit	Envoyer	Enviar	Υποβολή	Invia	إرسال	Einreichen	提出する
+geo_submit	Submit	Envoyer	Enviar	Υποβολή	Invia	إرسال	Einreichen	送信
 geo_maps	Open in Google Maps	Ouvrir dans Google Maps	Abrir en Google Maps	Ανοίξτε στο Google Maps	Aprire in Google Maps	افتح في خرائط جوجل	In Google Maps geöffnet	Google マップで開く
 geo_prediction	Location prediction of the image	Prédiction de l'emplacement de l'image	Predicción de la ubicación de la imagen	Πρόβλεψη θέσης της εικόνας	Previsione della posizione dell'immagine	التنبؤ بموقع الصورة	Standortvorhersage des Bildes	画像の位置予測
 geo_source	Source of the image	Source de l'image	Origen de la imagen	Πηγή της εικόνας	Fonte di immagine	مصدر الصورة	Bildquelle	画像の出典
@@ -9,7 +9,7 @@ geo_location	Location	Localisation	Ubicación	Τοποθεσία	Posizione	مو�
 geo_lat	Latitude	Latitude	Latitud	Γεωγραφικό πλάτος	Latitudine	خط العرض	Breite	緯度
 geo_lon	Longitude	Longitude	Longitud	Γεωγραφικό μήκος	Longitudine	خط الطول	Längengrad	経度
 geo_map	Map	Carte	Mapa	Χάρτης	Carta geografica	الخريطة	Karte	地図
-button_remove	Remove	Supprimer	Eliminar	Αφαιρώ	Rimuovere	إزالة	Entfernen	取り除く
+button_remove	Remove	Supprimer	Eliminar	Αφαιρώ	Rimuovere	إزالة	Entfernen	削除
 please_give_a_correct_link	Please give a correct link	Donner un lien valide s'il vous plaît	Por favor, dé un enlace válido	Παρακαλώ δώστε έναν σωστό σύνδεσμο	Si prega di fornire un collegamento corretto	يرجى إعطاء رابط صحيح	Bitte geben Sie einen korrekten Link an	正しいリンクを貼ってください
 geo_error_undefined	Please give a correct link	Donner un lien valide s'il vous plaît	Por favor, dé un enlace válido	Παρακαλώ δώστε έναν σωστό σύνδεσμο	Si prega di fornire un collegamento corretto	يرجى إعطاء رابط صحيح	Bitte geben Sie einen korrekten Link an	正しいリンクを貼ってください
 geo_error_400	Error download	Erreur de téléchargement	Error al descargar	Σφάλμα λήψης	Errore durante il download	حدث خطأ أثناء التنزيل	Fehler herunterladen	ダウンロードエラー
