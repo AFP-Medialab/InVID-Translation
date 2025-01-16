@@ -28,6 +28,8 @@ back_button	Back	Retour	Atrás	Πίσω	Indietro	عودة	Zurück	戻る
 menu_restart	Restart from the beginning	Recommencer depuis le début	Reiniciar desde el principio	Ξεκινήστε από την αρχή	Riparti dall'inizio	إعادة بدء من البداية	Neu starten	最初から再開
 menu_wbm_step	Go to Archiving with the Wayback Machine	Aller à l'archivage avec la Wayback Machine	Ir a Archiving con el Wayback Machine	Πηγαίνετε στην αρχειοθέτηση με το Wayback Machine	Vai alla archiviazione con il Wayback Machine	انتقل إلى الأرشفة باستخدام Wayback Machine	Gehe zur Archivierung mit dem Wayback Machine	Wayback Machineでアーカイブに進む
 menu_wacz_step	Go to WACZ upload step	Aller à l'étape de téléchargement WACZ	Ir al paso de carga de WACZ	Πηγαίνετε στο βήμα ανέβασμα WACZ	Vai al passaggio di caricamento WACZ	انتقل إلى خطوة تحميل WACZ	Gehe zum WACZ-Upload-Schritt	WACZアップロードステップに進む
+scoop_button_loading	Processing...	En cours de traitement	Procesando...	Επεξεργασία...	In elaborazione...	جاري المعالجة...	Verarbeitung...	処理中...
+scoop_button_download	Download .WACZ file	Télécharger le fichier .WACZ	Descargar archivo .WACZ	Κατεβάστε το αρχείο .WACZ	Scarica il file .WACZ	تحميل ملف .WACZ	.WACZ Datei herunterladen	.WACZファイルをダウンロード
 step1_title	Enter the URL to archive	Saisissez l’URL à archiver	Introduce la URL para archivar	Εισαγάγετε τη διεύθυνση URL για αρχειοθέτηση	Immetti l’URL da archiviare	أدخل عنوان URL للأرشفة	Geben Sie die URL zum Archivieren ein	アーカイブするURLを入力してください
 step1_invalid_url_error	Incorrect URL.	URL incorrecte.	URL incorrecta.	Λανθασμένη διεύθυνση URL.	URL non corretta.	عنوان URL غير صحيح.	Fehlerhafte URL.	URLが正しくありません。
 step1_textfield_label	URL	URL	URL	URL	URL	URL	URL	URL
