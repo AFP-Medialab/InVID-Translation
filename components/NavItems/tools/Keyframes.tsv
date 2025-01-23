@@ -25,7 +25,7 @@ keyframes_download_subshots	Download keyframes	Télecharger les images clés	Des
 zoom_in	zoom in	augmenter	aumentar	μεγεθύνετε	ingrandire	تكبير	hineinzoomen	ズームイン
 zoom_out	zoom out	réduire	reducir	Σμίκρυνση	Zoom out	تصغير	Rauszoomen	ズームアウト
 cardheader_source	Source of the video	Source de la vidéo	Fuente del video	Πηγή του βίντεο	Fonte del video	مصدر الفيديو	Quelle des Videos	動画の出典
-cardheader_results	Results	Résultats	Resultados	Αποτελέσματα	Risultati	النتائج	Ergebnisse	結果
+cardheader_results	Keyframes	Images clés	Fotogramas clave	Χαρακτηριστικά καρέ	Fotogrammi chiave	إطارات المفاتيح	Keyframes	キーフレーム
 linkmode_title	URL	URL	URL	URL	URL	URL	URL	URL
 linkmode_description	The video to fragment into keyframes is provided with a URL Link	La vidéo à fragmenter en images clés est fournie avec un lien URL	El video a fragmentar en fotogramas clave se proporciona con un enlace URL	Το βίντεο που πρόκειται να κατακερματιστεί σε keyframes παρέχεται με έναν σύνδεσμο URL	Il video da frammentare in KeyFrames è dotato di un collegamento URL	يتم توفير الفيديو المراد تجزئته إلى إطارات رئيسية عن طريق رابط URL	Das Video ist via Link abrufbar.	キーフレームにする動画をURLリンクで指定する
 filemode_title	File	Fichier	Fichero	αρχείου	File	ملف	Datei	ファイル
