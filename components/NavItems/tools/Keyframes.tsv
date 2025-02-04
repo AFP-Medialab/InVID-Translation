@@ -1,7 +1,7 @@
 	en	fr	es	el	it	ar	de	ja
 keyframes_title	Video fragmentation and reverse image search	Fragmentation vidéo et recherche inversée d'image	Fragmentación del video y búsqueda inversa de imagen	Αντίστροφη αναζήτηση βίντεο μέσω χαρακτηριστικών καρε	Video frammentazione e ricerca inversa dell'immagine	تقطيع الفيديو والبحث عن الصور العكسي	Videofragmentierung und umgekehrte Bildsuche	静止画にして画像検索
 button_localfile	Local file	Fichier local	Fichero local	Τοπικό αρχεί	File locale	ملف محلي	Lokale Datei	ローカルファイル
-keyframes_input	Insert the video URL	Adresse de la vidéo	Enlace del video	Εισάγετε τη διεύθυνση URL του βίντεο	Inserire l'URL video	أدخل عنوان URL الفيديو	Fügen Sie die Video -URL ein	動画の URL を挿入します
+keyframes_input	Video URL	URL vidéo	URL de video	URL βίντεο	URL del video	رابط الفيديو	Video-URL	ビデオURL
 keyframes_input_placeholder	Paste the link here	Coller le lien ici	Pegar el enlace aquí	Επικολλήστε τον σύνδεσμο εδώ	Incolla il link qui	الصق الرابط هنا	Fügen Sie den Link hier ein	ここにリンクを貼り付けてください
 button_submit	Submit	Envoyer	Enviar	Υποβολή	Invia	إرسال	Einreichen	送信
 forensic_card_back	Back	Retour	Volver	Πίσω	Ritorno	عودة	Zurück	戻る
@@ -25,8 +25,8 @@ keyframes_download_subshots	Download keyframes	Télecharger les images clés	Des
 zoom_in	zoom in	augmenter	aumentar	μεγεθύνετε	ingrandire	تكبير	hineinzoomen	ズームイン
 zoom_out	zoom out	réduire	reducir	Σμίκρυνση	Zoom out	تصغير	Rauszoomen	ズームアウト
 cardheader_source	Source of the video	Source de la vidéo	Fuente del video	Πηγή του βίντεο	Fonte del video	مصدر الفيديو	Quelle des Videos	動画の出典
-cardheader_results	Results	Résultats	Resultados	Αποτελέσματα	Risultati	النتائج	Ergebnisse	結果
-linkmode_title	Link	Lien	Enlace	Σύνδεσμος	Link	رابط	Verknüpfung	リンク
+cardheader_results	Keyframes	Images clés	Fotogramas clave	Χαρακτηριστικά καρέ	Fotogrammi chiave	إطارات المفاتيح	Keyframes	キーフレーム
+linkmode_title	URL	URL	URL	URL	URL	URL	URL	URL
 linkmode_description	The video to fragment into keyframes is provided with a URL Link	La vidéo à fragmenter en images clés est fournie avec un lien URL	El video a fragmentar en fotogramas clave se proporciona con un enlace URL	Το βίντεο που πρόκειται να κατακερματιστεί σε keyframes παρέχεται με έναν σύνδεσμο URL	Il video da frammentare in KeyFrames è dotato di un collegamento URL	يتم توفير الفيديو المراد تجزئته إلى إطارات رئيسية عن طريق رابط URL	Das Video ist via Link abrufbar.	キーフレームにする動画をURLリンクで指定する
 filemode_title	File	Fichier	Fichero	αρχείου	File	ملف	Datei	ファイル
 filemode_description	The video to fragment is provided with a local file	La vidéo à fragmenter est fournie avec un fichier local	El video a fragmentar se proporciona con un archivo local.	Το βίντεο προς κατακερματισμό παρέχεται με ένα τοπικό αρχείο	Il video da frammentare è dotato di un file locale	يتم توفير الفيديو المراد تجزئته إلى إطارات رئيسية عن طريق ملف محلي URL	Das Video als Datei hochladen.	キーフレームにする動画をローカルファイルで指定する
